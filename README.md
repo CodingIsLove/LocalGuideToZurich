@@ -1,4 +1,4 @@
-#🇨🇭Locals guide to Zürich - Welcome to my City 
+# 🇨🇭 Locals guide to Zürich - Welcome to my City 
 Hey there 👋. My Name is Chris, I was born and raised in Zürich Switzerland and love to show what Zürich has to offer
 to all my foreign friends. Since I had to write a list each time, I wanted to show the city to someone new, I thought
 , that it could be a good idea, to just share my list directly on Github 🙈. You will find here all the things I love 
