@@ -6,9 +6,14 @@ about my city (it's completely biased by my personal opinion, but I hope you lik
 your friends and send me some pull requests, if you have some further tipps about what to do in Zürich.  
 
 <details>
-<summary>Hello Hello This can be toggled</summary>
+<summary>Cool places</summary>
 <div>
-    <h1>Hello Hello this here is a Title, I have toggled inside a document</h1>
-    <p>Here is a Brief description of all the shizzle I know</p>
+    <details>
+        <summary>Summer</summary>
+    </details>
+    
+    <details>
+         <summary>winter</summary>
+    </details>
 </div>
 </details>
